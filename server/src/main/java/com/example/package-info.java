@@ -1,6 +1,6 @@
 /**
-* This is java package
-*/
+ * This is a class.
+ */
 package com.example;
 
 
